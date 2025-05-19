@@ -1,6 +1,7 @@
 # Naan-Muthalvan-Project-OpenCV
 
 
+
 Project Overview
 
 1.  Crowd Counting and Density Estimation System
@@ -16,6 +17,7 @@ Description: Underwater Object Detection systems help identify and monitor marin
 Description: A real-time system that detects and recognizes traffic signals using computer vision. It helps improve traffic management and autonomous driving decisions.
 
 
+
 Requirements:
 
 1. Python 3.x
@@ -25,7 +27,8 @@ Requirements:
 3. Numpy (pip install numpy)
 
 
-Author Information
+
+Author Information:
 
 Name: Prathisha A
 
